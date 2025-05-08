@@ -37,7 +37,7 @@ body{
     padding: 20px;
 }
 .card-title{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-weight: 500;
     letter-spacing: 5px; 
     font-size: 14px;
@@ -48,13 +48,13 @@ body{
     color: hsl(212, 21%, 14%);
     font-size: 2rem;
     line-height: 1;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .description{
     font-size: 0.9rem;
     line-height: 1.7;
     font-weight: 200;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .price{
     color: hsl(158, 36%, 37%);
@@ -66,7 +66,7 @@ body{
     justify-content: flex-start;
     align-items: center;
     gap: 1.7rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .sec-price{
     color: hsl(228, 12%, 48%);
